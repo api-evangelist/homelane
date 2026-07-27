@@ -1,0 +1,26 @@
+# HomeLane
+
+> HomeLane is an Indian end-to-end interior design company delivering customized home interiors — modular kitchens, wardrobes, storage, and full-room designs — pairing in-house digital design and 3D visualization tools with material selection and professional installation. Backed by Accel and headquartered in Bangalore, HomeLane operates across major Indian cities. It currently exposes no public developer API.
+
+## About
+- [Website](https://www.homelane.com): Company homepage and design entry point.
+- [About HomeLane](https://www.homelane.com/about-us): Company background and mission.
+- [Design Journal (Blog)](https://www.homelane.com/design-ideas/): Interior design ideas and articles.
+- [Interior Design Gallery](https://www.homelane.com/interior-design): Curated design showcase.
+
+## Services
+- [Get an Estimate](https://www.homelane.com/quotes/estimate-flow): Interactive cost estimator for home interiors.
+- [Partner / Franchise](https://www.homelane.com/partner): Franchising and partnership program.
+- [Referral Program](https://www.homelane.com/refer): Customer referral program.
+- [Cities / Contact](https://www.homelane.com/cities): Locations and studio contacts.
+
+## Support
+- [Help Center](https://www.homelane.com/help): Customer support and FAQs.
+
+## Legal
+- [Terms of Use](https://www.homelane.com/termsofuse): Terms governing use of HomeLane services.
+- [Privacy Policy](https://www.homelane.com/privacypolicy): How HomeLane handles personal data.
+
+## Machine-readable
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/homelane/refs/heads/main/apis.yml): APIs.json profile for the API Evangelist network.
+- [Domain security profile](https://raw.githubusercontent.com/api-evangelist/homelane/refs/heads/main/security/homelane-domain-security.yml): Probed TLS/HSTS/DNS security posture.

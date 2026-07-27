@@ -1,7 +1,26 @@
 aid: homelane
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/homelane.png
 name: HomeLane
-description: 'HomeLane is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: 'HomeLane is an Indian end-to-end interior design company that delivers
+  customized home interiors — modular kitchens, wardrobes, storage, bedroom, living
+  room, bathroom, and home-office designs — pairing in-house digital design and 3D
+  visualization tools with material selection and professional installation, backed
+  by a 45-day delivery guarantee on end-to-end modular interiors. Founded in Bangalore
+  and backed by Accel, HomeLane operates across major Indian cities through design
+  studios, a franchise/partner network, and a customer mobile app. HomeLane currently
+  exposes no public developer API; this profile tracks its digital, security, and
+  identity surface for the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/homelane/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Consumer
+- Interior Design
+- Home Services
+- Home Improvement
+- Furniture
+- Modular Kitchen
+- Retail
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +49,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.homelane.com
+  url: https://www.homelane.com
+- type: Blog
+  url: https://www.homelane.com/design-ideas/
+- type: Support
+  url: https://www.homelane.com/help
+- type: TermsOfService
+  url: https://www.homelane.com/termsofuse
+- type: PrivacyPolicy
+  url: https://www.homelane.com/privacypolicy
+- type: DomainSecurity
+  url: security/homelane-domain-security.yml
+- type: LLMsTxt
+  url: llms/homelane-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
